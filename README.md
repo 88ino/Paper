@@ -1,2 +1,2 @@
 # Paper
-Papers I have read or worth reading
+読んだ論文・読む論文をIssuesに保存
